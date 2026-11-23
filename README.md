@@ -36,6 +36,12 @@ Flutter JS on Mobile
 Flutter JS on Desktop
 
 
+## Requirements
+
+- Flutter 3.44 / Dart 3.12 or later.
+- Enabling built-in Kotlin requires Flutter 3.47 or later.
+- Android QuickJS runtime 0.3.6 retains support for 16 KB memory pages.
+
 ## Features:
 
 ## Instalation
