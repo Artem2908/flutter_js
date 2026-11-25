@@ -41,6 +41,8 @@ Flutter JS on Desktop
 - Flutter 3.44 / Dart 3.12 or later.
 - Enabling built-in Kotlin requires Flutter 3.47 or later.
 - Android QuickJS runtime 0.3.6 retains support for 16 KB memory pages.
+- iOS 13.0 or later; Swift Package Manager and CocoaPods are supported.
+- Swift Package Manager requires Xcode 15 or later (Swift tools 5.9).
 
 ## Features:
 

@@ -1,5 +1,8 @@
 # Unreleased
 
+- Add iOS Swift Package Manager support alongside CocoaPods, sharing the existing JavaScriptCore implementation.
+- Set the iOS plugin deployment target to 13.0 and support arm64 simulators.
+
 - Migrate Android builds to built-in Kotlin; require Flutter 3.44 and Dart 3.12 or later.
 - Update the Android example to Gradle 9.5.0 and AGP 9.3.1 with built-in Kotlin enabled.
 - Preserve QuickJS runtime 0.3.6 with support for 16 KB memory pages.
